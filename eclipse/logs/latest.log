@@ -1,0 +1,27 @@
+[20:47:33] [main/INFO]: Setting user: Player138
+[20:47:34] [Client thread/INFO]: LWJGL Version: 2.9.1
+[20:47:42] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:core2
+[20:47:42] [Sound Library Loader/INFO]: Sound engine started
+[20:47:44] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[20:47:44] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[20:47:44] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:core2
+[20:47:44] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[20:47:44] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[20:47:45] [Sound Library Loader/INFO]: Sound engine started
+[20:47:53] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[20:47:53] [Server thread/INFO]: Generating keypair
+[20:47:54] [Server thread/INFO]: Preparing start region for level 0
+[20:47:55] [Server thread/INFO]: Changing view distance to 12, from 10
+[20:47:55] [Server thread/INFO]: Player138[local:E:082addd6] logged in with entity id 363 at (-45.998729237309334, 77.0, 251.28545523241195)
+[20:47:55] [Server thread/INFO]: Player138 joined the game
+[20:47:56] [Server thread/INFO]: Saving and pausing game...
+[20:47:56] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:47:56] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:47:56] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[21:13:44] [Client thread/INFO]: Stopping!
+[21:13:44] [Server thread/INFO]: Stopping server
+[21:13:44] [Server thread/INFO]: Saving players
+[21:13:44] [Server thread/INFO]: Saving worlds
+[21:13:44] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[21:13:44] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[21:13:44] [Server thread/INFO]: Saving chunks for level 'New World'/The End
